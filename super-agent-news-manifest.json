@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google)",
+    "[yahoo.com](https://finance.yahoo.com)",
+    "[mit.edu](https://news.mit.edu)",
+    "[aimultiple.com](https://aimultiple.com)",
+    "[scmedia.com](https://www.scmagazine.com)",
+    "[citybiz.co](https://www.citybiz.co)"
+  ],
+  "design_plan": "rng_seed=42; AIDA_passed=True; hero_lines=2.4; bento_density=grid-auto-flow:dense; label_sweep=ok; button_contrast=ok",
+  "generated_at": "2026-07-04T21:49:15.731756+00:00",
+  "headline": "Super for creators and coaches turning conversations into content and operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A conversion\u2011focused niche landing page for creators and coaches who want their calls, chats, and ideas to become repeatable content and real operations. The page positions Super as the sharper alternative to chat\u2011only assistants by highlighting real computer use, reusable workflows, and a computer\u2011use cache that compounds value over time. Market momentum around agentic AI and workflow automation is cited from current reporting, while competitors like ChatGPT, Gemini, Siri, Grok, Folk, and Orchids are fairly framed as context."
+}
